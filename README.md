@@ -1,7 +1,7 @@
 # A3C for KungFu Master
 
 Implement A3C for training agent to do KungFu (using KungFu Master Atari environment).
-After done some training session Agent can do do KungFu and had quite good score, may be if we do longer and more coomplex training it should give better should but all limited by the resource.
+After done some training session Agent can do do KungFu and had quite good score, may be if we do longer and more complex training it should give better should but all limited by the resource.
 
 ## Training Process
 In total it take 23 minutes and 33 seconds for AI agent to learn KungFu to achiave 2900 score. Here is the preview:
