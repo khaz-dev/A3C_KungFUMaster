@@ -1,4 +1,4 @@
-# A3C for KungFu Master
+# AI KungFu Master usng A3C
 
 Implement A3C for training agent to do KungFu (using KungFu Master Atari environment).
 After done some training session Agent can do do KungFu and had quite good score, may be if we do longer and more complex training it should give better should but all limited by the resource.
